@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Denoising Diffusion Model"
+title:  "Denoising Diffusion Models"
 thumbnail-img: https://github.com/azad-academy/denoising-diffusion-model/raw/main/diffusion.png
 cover-img: /assets/img/cover-github.io.png
 ---
