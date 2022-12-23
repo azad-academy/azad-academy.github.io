@@ -3,3 +3,11 @@ layout: home
 title: Azad Academy
 subtitle: A place where you can learn in the field of Machine Learning, Deep Learning and Computer Vision.
 ---
+
+<ul>
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
