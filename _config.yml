@@ -14,13 +14,13 @@ author: Azad Academy
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "about"
+  
   Resources:
     - Code: "https://github.com/azad-academy"
     - Blog (Substack): "https://azadwolf.substack.com"
     - Blog (Medium): "https://azadwolf.substack.com"
     - Company: "https://www.azaditech.com"
-    
+  About: "about"  
   
 # --- Logo --- #
 
